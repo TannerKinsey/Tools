@@ -1,2 +1,4 @@
 # Exclude all bazel links.
 bazel-*
+__pycache__/
+
