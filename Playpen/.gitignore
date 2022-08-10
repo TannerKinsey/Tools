@@ -1,0 +1,2 @@
+# Exclude all bazel links.
+bazel-*
