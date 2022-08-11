@@ -1,14 +1,14 @@
 
-template = """
+build_template = """
 py_binary(
     name = 'main',
     srcs = [
-        'main.py'
+        'Main.py'
     ]
 )
 """
 
-content = """
+file_content = """
 def main():
     return 0
 
